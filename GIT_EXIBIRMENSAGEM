@@ -1,0 +1,9 @@
+procedure Main;
+begin
+  ExibirMensagem();
+end;
+
+procedure ExibirMensagem();
+begin
+  ShowMessage('Estou vindo do GitHub');
+end;
